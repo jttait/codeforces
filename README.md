@@ -4,4 +4,6 @@
 
 # union find
 
-[https://www.youtube.com/watch?v=ibjEGG7ylHk](https://www.youtube.com/watch?v=ibjEGG7ylHk)
+[Union Find Introduction (William Fiset)](https://www.youtube.com/watch?v=ibjEGG7ylHk)
+
+[Union Find Kruskal's Algorithm (William Fiset)](https://www.youtube.com/watch?v=JZBQLXgSGfs)
